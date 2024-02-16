@@ -1,7 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-int centuries = int.Parse(Console.ReadLine());
-int years = centuries * 100;
-int days = (int)(years * 365.2422);
-int hours = days * 24;
-int minutes = hours * 60;
-Console.WriteLine($"{centuries} centuries =  {years} years = {days} days = {hours} hours = {minutes} minutes");
+﻿
+//CenturesToMinutes
+Console.Write("centures = ");
+int centures = int.Parse(Console.ReadLine());
+Console.WriteLine(centures * 100 + "years = " + (int)centures * 100 * 365 + "days = " + (int)centures * 100 * 365 * 24 + "hours = " + (int)centures * 100 * 365 * 24 * 60 + "minutes");
+

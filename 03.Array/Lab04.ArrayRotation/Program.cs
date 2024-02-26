@@ -4,7 +4,7 @@ int[] array = Console.ReadLine()
     .Select(int.Parse)
     .ToArray();
 int rotation = int.Parse(Console.ReadLine());
-
+//int rotaionCountReduced = rotation % array.Length; 
 //Act
 for (int i = 0; i < rotation; i++)
 {

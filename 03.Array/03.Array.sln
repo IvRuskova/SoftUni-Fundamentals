@@ -29,7 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04.ArrayRotation", "..\L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.TopIntegers", "..\Lab05.TopIntegers\Lab05.TopIntegers.csproj", "{5393D811-1E97-4AE2-8072-E3B48AC59512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.EqualSum", "Lab06.EqualSum\Lab06.EqualSum.csproj", "{54DC6609-4F18-4D2F-8236-6612C79A8B4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab06.EqualSum", "Lab06.EqualSum\Lab06.EqualSum.csproj", "{54DC6609-4F18-4D2F-8236-6612C79A8B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCheats", "ArrayCheats\ArrayCheats.csproj", "{3A5DBC18-A85C-4627-B350-D396C26B351C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.10Ladybug", "ConsoleApp1\Lab.10Ladybug.csproj", "{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{54DC6609-4F18-4D2F-8236-6612C79A8B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DC6609-4F18-4D2F-8236-6612C79A8B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DC6609-4F18-4D2F-8236-6612C79A8B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5DBC18-A85C-4627-B350-D396C26B351C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5DBC18-A85C-4627-B350-D396C26B351C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5DBC18-A85C-4627-B350-D396C26B351C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5DBC18-A85C-4627-B350-D396C26B351C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

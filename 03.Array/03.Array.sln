@@ -31,9 +31,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.TopIntegers", "..\Lab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab06.EqualSum", "Lab06.EqualSum\Lab06.EqualSum.csproj", "{54DC6609-4F18-4D2F-8236-6612C79A8B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayCheats", "ArrayCheats\ArrayCheats.csproj", "{3A5DBC18-A85C-4627-B350-D396C26B351C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayCheats", "ArrayCheats\ArrayCheats.csproj", "{3A5DBC18-A85C-4627-B350-D396C26B351C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.10Ladybug", "ConsoleApp1\Lab.10Ladybug.csproj", "{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.10Ladybug", "ConsoleApp1\Lab.10Ladybug.csproj", "{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab07.MaxSequenceOfEqualElements", "Lab07.MaxSequenceOfEqualElements\Lab07.MaxSequenceOfEqualElements.csproj", "{599DF2DB-475A-4F54-8A3D-32437B659964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.MagicSum", "Lab08.MagicSum\Lab08.MagicSum.csproj", "{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09.KaminoFactory", "Lab09.KaminoFactory\Lab09.KaminoFactory.csproj", "{07EC5452-17F6-4420-82E5-F981A7983F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2A6C6F8-A0D8-41A9-A1D3-44B62B0E6028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599DF2DB-475A-4F54-8A3D-32437B659964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599DF2DB-475A-4F54-8A3D-32437B659964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599DF2DB-475A-4F54-8A3D-32437B659964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599DF2DB-475A-4F54-8A3D-32437B659964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EC5452-17F6-4420-82E5-F981A7983F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EC5452-17F6-4420-82E5-F981A7983F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EC5452-17F6-4420-82E5-F981A7983F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EC5452-17F6-4420-82E5-F981A7983F99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

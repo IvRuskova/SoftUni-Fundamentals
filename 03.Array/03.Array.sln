@@ -37,9 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.10Ladybug", "ConsoleApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab07.MaxSequenceOfEqualElements", "Lab07.MaxSequenceOfEqualElements\Lab07.MaxSequenceOfEqualElements.csproj", "{599DF2DB-475A-4F54-8A3D-32437B659964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.MagicSum", "Lab08.MagicSum\Lab08.MagicSum.csproj", "{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab08.MagicSum", "Lab08.MagicSum\Lab08.MagicSum.csproj", "{565AD0D6-0F57-40A4-AB0D-A5512FFEB7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09.KaminoFactory", "Lab09.KaminoFactory\Lab09.KaminoFactory.csproj", "{07EC5452-17F6-4420-82E5-F981A7983F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab09.KaminoFactory", "Lab09.KaminoFactory\Lab09.KaminoFactory.csproj", "{07EC5452-17F6-4420-82E5-F981A7983F99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

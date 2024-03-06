@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            PrintSing(int.Parse(Console.ReadLine()));
+            PrintSign(int.Parse(Console.ReadLine()));
         }
-        static void PrintSing(int num)
+        static void PrintSign(int num)
         {
             if (num > 0)
             {

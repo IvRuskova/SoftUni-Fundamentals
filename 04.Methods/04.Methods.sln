@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.RepeatString", "07.Repea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MathPower", "08.MathPower\08.MathPower.csproj", "{84845F08-52E7-49EB-A950-38DEE47653D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.GreaterTwoValues", "09.GreaterTwoValues\09.GreaterTwoValues.csproj", "{5EB8B47A-3AAE-421B-B8DF-A1B56140F974}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.GreaterOfTwoValues", "09.GreaterTwoValues\09.GreaterOfTwoValues.csproj", "{5EB8B47A-3AAE-421B-B8DF-A1B56140F974}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MultiplyEvensByOdds", "10.MultiplyEvensByOdds\10.MultiplyEvensByOdds.csproj", "{36DCB2E4-E4B5-4F42-AEAE-C3FEACABAB5F}"
 EndProject

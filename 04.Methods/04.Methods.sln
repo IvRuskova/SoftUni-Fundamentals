@@ -33,9 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab03.CharactersInRange", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab04.PaswordValidator", "Lab04.PaswordValidator\Lab04.PaswordValidator.csproj", "{60C517A0-9D26-4321-9FA3-F6C0100EFD53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.AddAndSubtract", "Lab05.AddAndSubtract\Lab05.AddAndSubtract.csproj", "{35E0D608-0496-454D-9A31-BF95E9E69E84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab05.AddAndSubtract", "Lab05.AddAndSubtract\Lab05.AddAndSubtract.csproj", "{35E0D608-0496-454D-9A31-BF95E9E69E84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.MiddleCharacters", "Lab06.MiddleCharacters\Lab06.MiddleCharacters.csproj", "{0BC54E5A-08F0-4902-846D-85EFC17F7A13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab06.MiddleCharacters", "Lab06.MiddleCharacters\Lab06.MiddleCharacters.csproj", "{0BC54E5A-08F0-4902-846D-85EFC17F7A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.NxNMatrix", "Lab07.NxNMatrix\Lab07.NxNMatrix.csproj", "{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.FactorialDivision", "Lab08.FactorialDivision\Lab08.FactorialDivision.csproj", "{48EC72D2-524A-42A0-B6C3-5A2C88519422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09.PalindromeIntegers", "Lab09.PalindromeIntegers\Lab09.PalindromeIntegers.csproj", "{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +117,18 @@ Global
 		{0BC54E5A-08F0-4902-846D-85EFC17F7A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BC54E5A-08F0-4902-846D-85EFC17F7A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BC54E5A-08F0-4902-846D-85EFC17F7A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EC72D2-524A-42A0-B6C3-5A2C88519422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EC72D2-524A-42A0-B6C3-5A2C88519422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EC72D2-524A-42A0-B6C3-5A2C88519422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EC72D2-524A-42A0-B6C3-5A2C88519422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

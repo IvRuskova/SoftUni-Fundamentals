@@ -11,9 +11,14 @@ namespace Lab06.MiddleCharacters
 
         private static void FindMiddle(string str)
         {
-            for (int i = 1; i <= str.Length/2; i++)
+            
+            if (str.Length % 2 == 0 )
             {
-                Console.WriteLine(str[i]);
+                Console.WriteLine($"{str[str.Length/2-1]}{str[str.Length/2]}");
+            }
+            else
+            {
+                Console.WriteLine(str[str.Length / 2]);
             }
         }
     }

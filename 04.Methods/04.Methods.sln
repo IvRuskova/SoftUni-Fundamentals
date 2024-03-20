@@ -37,11 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab05.AddAndSubtract", "Lab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab06.MiddleCharacters", "Lab06.MiddleCharacters\Lab06.MiddleCharacters.csproj", "{0BC54E5A-08F0-4902-846D-85EFC17F7A13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.NxNMatrix", "Lab07.NxNMatrix\Lab07.NxNMatrix.csproj", "{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab07.NxNMatrix", "Lab07.NxNMatrix\Lab07.NxNMatrix.csproj", "{0C78FD45-0E89-4A46-9E28-96E29BF88BF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.FactorialDivision", "Lab08.FactorialDivision\Lab08.FactorialDivision.csproj", "{48EC72D2-524A-42A0-B6C3-5A2C88519422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab08.FactorialDivision", "Lab08.FactorialDivision\Lab08.FactorialDivision.csproj", "{48EC72D2-524A-42A0-B6C3-5A2C88519422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09.PalindromeIntegers", "Lab09.PalindromeIntegers\Lab09.PalindromeIntegers.csproj", "{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab09.PalindromeIntegers", "Lab09.PalindromeIntegers\Lab09.PalindromeIntegers.csproj", "{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab10.TopNumber", "Lab10.TopNumber\Lab10.TopNumber.csproj", "{1B6DD57D-822D-4B9E-A315-D9266544FB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab11.ArrayManipulator", "Lab11.ArrayManipulator\Lab11.ArrayManipulator.csproj", "{FC40081A-DCBF-4E6F-B397-C93165775370}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0DE2EC1-E6D7-4BB9-86FA-9DD2C4117DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6DD57D-822D-4B9E-A315-D9266544FB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6DD57D-822D-4B9E-A315-D9266544FB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6DD57D-822D-4B9E-A315-D9266544FB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6DD57D-822D-4B9E-A315-D9266544FB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC40081A-DCBF-4E6F-B397-C93165775370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC40081A-DCBF-4E6F-B397-C93165775370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC40081A-DCBF-4E6F-B397-C93165775370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC40081A-DCBF-4E6F-B397-C93165775370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
